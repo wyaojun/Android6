@@ -8,10 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/demo_tv" />
             <option value="$PROJECT_DIR$/erwm" />
             <option value="$PROJECT_DIR$/ewm" />
             <option value="$PROJECT_DIR$/my_vt" />
+            <option value="$PROJECT_DIR$/picture" />
+            <option value="$PROJECT_DIR$/recyviewdemo" />
             <option value="$PROJECT_DIR$/vitamio2" />
           </set>
         </option>
